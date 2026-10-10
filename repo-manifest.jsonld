@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/pyproject-fmt/commit/50e0f3aee9dc5747a5f173f79a7417403c18dda6",
       "git:hexsha": "50e0f3aee9dc5747a5f173f79a7417403c18dda6",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v2.30.3"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.30.3",
+      "repolex:parsedAt": "2026-10-10T22:13:28.949725+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/pyproject-fmt/commit/187bf9c2f58b2d45e14e9933d9c560fe2972b68e",
