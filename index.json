@@ -1,0 +1,11 @@
+{
+  "org": "tox-dev",
+  "repo": "pyproject-fmt",
+  "versions": [
+    {
+      "commit": "50e0f3aee9dc5747a5f173f79a7417403c18dda6",
+      "tag": "v2.30.3",
+      "parsed_at": "2026-10-10T22:13:28.950926+00:00"
+    }
+  ]
+}
