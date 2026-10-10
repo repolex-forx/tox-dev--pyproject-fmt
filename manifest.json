@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "tox-dev",
+  "repo": "pyproject-fmt",
+  "versions": [
+    {
+      "commit": "50e0f3aee9dc5747a5f173f79a7417403c18dda6",
+      "parsed_at": "2026-10-10T22:11:24.490755+00:00",
+      "tag": "v2.30.3",
+      "filetree": "filetree/50e0f3aee9dc5747a5f173f79a7417403c18dda6.nq.gz",
+      "blobs": [
+        "blob/b6ea0a249c1e0a4eb68615a3feae5824fb9fe1b3.nq.gz",
+        "blob/69d0cfd202c019ca1d5a92d59faf9a1380c61930.nq.gz",
+        "blob/2eb1baacae6449244c918ef482e3b60c15e49c8d.nq.gz",
+        "blob/364982344fbd94d55705e1f27a9a87abaa255333.nq.gz",
+        "blob/4425c229252139bd2641fda4badd61ca3cf27f6c.nq.gz",
+        "blob/047972fcdde5db2fc981195c8fae3b4fa980c05a.nq.gz",
+        "blob/3f7d6ddd7e1edfe85841e211b6e340a54b95401d.nq.gz",
+        "blob/6672d106fecd2c5fb42c492c6c1c761589a81a02.nq.gz",
+        "blob/75b94899d666ab2d3cfeb69e95c2114765b443d1.nq.gz",
+        "blob/e88ba89babca6b19cbe5f1582aa52dfc6f2cd6b8.nq.gz",
+        "blob/5f89818f9e63c2f6829c7706c57f223cdb5bbd38.nq.gz",
+        "blob/b2718e6e1bd5b4e76f42ba2008a7ab56bd6a1ae8.nq.gz",
+        "blob/3b342c935ea92dbdc3878247111a19a037400a69.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
